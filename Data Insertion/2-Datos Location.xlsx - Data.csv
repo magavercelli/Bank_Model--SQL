@@ -1,0 +1,70 @@
+id_location,state_name,city,address
+1,Buenos Aires,Ciudad Autonoma ,Av. Siempre Viva 123
+2,Santa Fe,Rosario,Calle Falsa 456 
+3,Salta,Salta,Av. del Libertador 789
+4,Cordoba,Cordoba,Calle de la Paz 101
+5,Buenos Aires,La Plata,Av. de Mayo 202
+6,Mendoza,Mendoza,Calle San Martin 303
+7,Buenos Aires,Ciudad Autonoma ,Av. 9 de Julio 404
+8,San Juan,San Juan,Calle Bolivar 505
+9,Tucuman,San Miguel de Tucuman,Av. Belgrano 606
+10,Santa Fe,Rosario,Calle 25 de Mayo 707
+11,Buenos Aires,Ciudad Autonoma ,Av. Corrientes 808
+12,Santa Fe,Santa Fe,Calle Libertador 909
+13,Chaco,Resistencia,Av. Santa Fe 1010
+14,Santa Cruz,Rio Gallegos,Calle Alsina 1111
+15,Rio Negro,General Roca,Av. Rivadavia 1212
+16,Misiones,Posadas,Calle Cordoba 1313
+17,San Luis,San Luis,Av. Rivadavia 1414
+18,Santiago del Estero,Santiago del Estero,Calle Belgrano 1515
+19,La Pampa,Santa Rosa,Av. del Libertador 1616
+20,Neuquen,Neuquen,Calle Tucuman 1717
+21,Santa Fe,Santa Fe,Av. San Martin 1818
+22,La Rioja,La Rioja,Calle Entre Rios 1919
+23,Entre Rios,Parana,Av. Cordoba 2020
+24,Cordoba,Cordoba,Calle Jujuy 2121
+25,Mendoza,Mendoza,Av. de los Incas 2222
+26,Tucuman,San Miguel de Tucuman,Calle Catamarca 2323
+27,Mendoza,Mendoza,Av. Montevideo 2424
+28,Chaco,Resistencia,Calle Salta 2525
+29,Santa Fe,Rosario,Av. Maipu 2626
+30,San Juan,San Juan,Calle Mendoza 2727
+31,Rio Negro,General Roca,Av. Quilmes 2828
+32,La Pampa,Santa Rosa,Calle Chaco 2929
+33,Santiago del Estero,Santiago del Estero,Av. Caseros 3030
+34,Entre Rios,Parana,Calle Santa Fe 3131
+35,San Luis,San Luis,Av. La Plata 3232
+36,Neuquen,Neuquen,Calle Corrientes 3333
+37,Rio Negro,General Roca,Av. Cordoba 3434
+38,San Juan,San Juan,Calle Entre Rios 3535
+39,Santa Fe,Rosario,Av. Mitre 3636
+40,Buenos Aires,La Plata,Calle Buenos Aires 3737
+41,Misiones,Posadas,Av. Rivadavia 3838
+42,Buenos Aires,La Plata,Calle Salta 3939
+43,Santa Fe,Santa Fe,Av. Santa Fe 4040
+44,Cordoba,Cordoba,Calle Tucuman 4141
+45,Tucuman,San Miguel de Tucuman,Av. Belgrano 4242
+46,Santa Cruz,Rio Gallegos,Calle Jujuy 4343
+47,Buenos Aires,Ciudad Autonoma ,Av. de Mayo 4444
+48,Cordoba,Cordoba,Calle Rio Negro 4545
+49,La Rioja,La Rioja,Av. San Martin 4646
+50,La Pampa,Santa Rosa,Calle Salta 4747
+51,Santa Fe,Rosario,San Martin 1321
+52,Buenos Aires,Ciudad Autonoma ,Calle 9 de Julio 905
+53,Salta,Salta,Av. Illia 850
+54,Cordoba,Cordoba,Pte. Peron 3412
+55,Buenos Aires,La Plata,Entre Rios 842
+56,Mendoza,Mendoza,Jose Ingenieros 2856
+57,San Juan,San Juan,3 de Febrero 1024
+58,Tucuman,San Miguel de Tucuman,Santa Rosa 4196
+59,Santa Fe,Santa Fe,Av. Yrigoyen 3541
+60,Chaco,Resistencia,Av. Eva Peron 6781
+61,Misiones,Posadas,Alvear 1341
+62,San Luis,San Luis,Villa Merlo 5743
+63,Santiago del Estero,Santiago del Estero,Mendoza 3445
+64,Neuquen,Neuquen,Salta 1986
+65,La Rioja,La Rioja,Pasco 3817
+66,Entre Rios,Parana,Av. Guemes 750
+67,Santa Cruz,Rio Gallegos,Cochabamba 3479
+68,La Pampa,La Pampa,Crespo 6214
+69,Rio Negro,General Roca,Ituzaingo 1998
